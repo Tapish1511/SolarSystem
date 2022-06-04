@@ -1,5 +1,6 @@
 # SolarSystem
-it is 3D solar system simulation.
+it is 3D solar system simulation. made with **unity 2019.4.33f1**
+
 ![image](https://user-images.githubusercontent.com/87308840/171988190-95374c73-afb7-446b-af3a-31b749a5333c.png)
 
 **You can control speed of simulation using fastforward button and - button**
@@ -19,3 +20,5 @@ https://user-images.githubusercontent.com/87308840/171988457-994542a5-9a0b-4ba0-
 *you can experence simulation from the link given below.*
 
 https://tapish1511.github.io/SolarSystemSimulation/
+
+## Getting Project
