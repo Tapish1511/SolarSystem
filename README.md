@@ -23,4 +23,7 @@ https://tapish1511.github.io/SolarSystemSimulation/
 
 ## Getting Project
 To get the project floder you need to clone the project. Once you have cloned the repository. you should install the *2019.4.33f1* version. You can open this folder with unity hub. you can download unity hub from below link.
-```https://unity3d.com/get-unity/download```
+
+```
+https://unity3d.com/get-unity/download
+```
