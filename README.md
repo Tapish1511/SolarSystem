@@ -1,6 +1,10 @@
 # SolarSystem
 it's solar system simulation, made with **unity 2019.4.33f1**
 
+*you can experience simulation from the link given below.*
+
+https://tapish1511.github.io/SolarSystemSimulation/
+
 ![image](https://user-images.githubusercontent.com/87308840/171988190-95374c73-afb7-446b-af3a-31b749a5333c.png)
 
 **You can control speed of simulation using fastforward button and - button**
@@ -17,9 +21,7 @@ https://user-images.githubusercontent.com/87308840/171988457-994542a5-9a0b-4ba0-
 
 ![image](https://user-images.githubusercontent.com/87308840/171988930-d1fd93a6-8aff-48dd-9997-345d49e720e5.png)
 
-*you can experience simulation from the link given below.*
 
-https://tapish1511.github.io/SolarSystemSimulation/
 
 ## Getting Project
 * To get the project floder you need to clone the project. 
